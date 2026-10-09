@@ -1,3 +1,8 @@
+No executable is provided check the code yourself for how to run it as it's a silly idea to run code you haven't checked yourself.
+
+Goes for all projects not just this one.
+
+
 # HOI4 globe prototype
 
 An experimental 3D planet renderer for Hearts of Iron IV. V3 curves the map around Earth, adds elevation-based relief and a continuous geographic backdrop, restores political colors and labels, and projects map-icon anchors onto terrain.
