@@ -1,3 +1,9 @@
+## Flat Earth Map 2x Edition (10,240 x 5,120)
+
+The playable **flat-map edition** is available in [flat/](flat/README.md), with a precompiled Windows injector in the [v0.5.0-flat release](https://github.com/skatoot/hoi4-globe-prototype/releases/tag/v0.5.0-flat). The globe prototype below remains available.
+
+---
+
 No executable is provided check the code yourself for how to run it as it's a silly idea to run code you haven't checked yourself.
 
 Goes for all projects not just this one.
